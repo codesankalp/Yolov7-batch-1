@@ -1,0 +1,10 @@
+names: 
+- Bike 
+- Auto 
+- Car 
+- HMV
+- Others
+- Others Other
+nc: 6
+train: /content/drive/MyDrive/data/yolov7/data_images/train
+val: /content/drive/MyDrive/data/yolov7/data_images/valid
